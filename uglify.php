@@ -1,11 +1,4 @@
 <?php
-/*
-<script src="./assets/js/iscroll.js"></script>
-<script src="./assets/js/json.js"></script>
-<script src="./assets/js/store.js"></script>
-<script src="./assets/js/book.helpers.js"></script>
-<script src="./assets/js/book.js"></script>
-*/
 
 $ch = curl_init();
 
